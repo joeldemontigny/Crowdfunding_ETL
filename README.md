@@ -6,7 +6,7 @@ The instructions for this mini project are divided into the following subsection
 Create the Category and Subcategory DataFrames
 Create the Campaign DataFrame
 Create the Contacts DataFrame
-Create the Crowdfunding Database
+Create the Crowdfunding Database and ERD
 
 # Data Sources
 
@@ -91,3 +91,8 @@ Use Python dictionary methods for extracting and transforming the data from the 
   - Verify the table creation by running a SELECT statement for each table.
   - Import each CSV file into its corresponding SQL table.
   - Verify that each table has the correct data by running a SELECT statement for each.
+
+# Copy of ERD:
+
+![image](https://github.com/joeldemontigny/Crowdfunding_ETL/assets/130711180/a2c186db-5ab4-475f-8c89-376bcaeb4dbc)
+
