@@ -96,3 +96,5 @@ Use Python dictionary methods for extracting and transforming the data from the 
 
 ![image](https://github.com/joeldemontigny/Crowdfunding_ETL/assets/130711180/a2c186db-5ab4-475f-8c89-376bcaeb4dbc)
 
+Team Members
+Joel Demontigny, Ghislain Nyirumuheto
